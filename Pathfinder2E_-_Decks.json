@@ -1,0 +1,2446 @@
+{
+	"schema_version": 1,
+	"decks": [{
+			"attributes": {
+				"name": "Pathfinder 2e - Critical Fumble Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": true,
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_Back.png?raw=true",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": true,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": true,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "choosefronts_gm",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"cards": {
+					"-NCKDTQ8UGaFsFv0Islk": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_01.png?raw=true",
+						"id": "-NCKDTQ8UGaFsFv0Islk",
+						"name": "PF2eCFD_01"
+					},
+					"-NCKDTQVsglz4WkOV9bH": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_02.png?raw=true",
+						"id": "-NCKDTQVsglz4WkOV9bH",
+						"name": "PF2eCFD_02"
+					},
+					"-NCKDTQkHnqz4TXPHDsz": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_03.png?raw=true",
+						"id": "-NCKDTQkHnqz4TXPHDsz",
+						"name": "PF2eCFD_03"
+					},
+					"-NCKDTR-JRugO4nDcSuv": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_04.png?raw=true",
+						"id": "-NCKDTR-JRugO4nDcSuv",
+						"name": "PF2eCFD_04"
+					},
+					"-NCKDTRFfZVUw9xpPwat": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_05.png?raw=true",
+						"id": "-NCKDTRFfZVUw9xpPwat",
+						"name": "PF2eCFD_05"
+					},
+					"-NCKDTRazSm-gYnzZW9s": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_06.png?raw=true",
+						"id": "-NCKDTRazSm-gYnzZW9s",
+						"name": "PF2eCFD_06"
+					},
+					"-NCKDTRsk3KGGTkTFykr": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_07.png?raw=true",
+						"id": "-NCKDTRsk3KGGTkTFykr",
+						"name": "PF2eCFD_07"
+					},
+					"-NCKDTS5SCnWCADKUcry": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_08.png?raw=true",
+						"id": "-NCKDTS5SCnWCADKUcry",
+						"name": "PF2eCFD_08"
+					},
+					"-NCKDTSL8jImQhbAp8hD": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_09.png?raw=true",
+						"id": "-NCKDTSL8jImQhbAp8hD",
+						"name": "PF2eCFD_09"
+					},
+					"-NCKDTScLdRjGiIvlEAr": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_10.png?raw=true",
+						"id": "-NCKDTScLdRjGiIvlEAr",
+						"name": "PF2eCFD_10"
+					},
+					"-NCKDTStikxYuvAwUCGE": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_11.png?raw=true",
+						"id": "-NCKDTStikxYuvAwUCGE",
+						"name": "PF2eCFD_11"
+					},
+					"-NCKDTTAru2uj8tBbqoN": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_12.png?raw=true",
+						"id": "-NCKDTTAru2uj8tBbqoN",
+						"name": "PF2eCFD_12"
+					},
+					"-NCKDTTVfXHBjX0ecLRz": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_13.png?raw=true",
+						"id": "-NCKDTTVfXHBjX0ecLRz",
+						"name": "PF2eCFD_13"
+					},
+					"-NCKDTTnc106AZRiu0Lb": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_14.png?raw=true",
+						"id": "-NCKDTTnc106AZRiu0Lb",
+						"name": "PF2eCFD_14"
+					},
+					"-NCKDTU4GSFZyWkx5Z9v": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_15.png?raw=true",
+						"id": "-NCKDTU4GSFZyWkx5Z9v",
+						"name": "PF2eCFD_15"
+					},
+					"-NCKDTULKNXSH15BNNsA": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_16.png?raw=true",
+						"id": "-NCKDTULKNXSH15BNNsA",
+						"name": "PF2eCFD_16"
+					},
+					"-NCKDTUawunoRgnyqt-a": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_17.png?raw=true",
+						"id": "-NCKDTUawunoRgnyqt-a",
+						"name": "PF2eCFD_17"
+					},
+					"-NCKDTUsdpYZq57vgyzO": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_18.png?raw=true",
+						"id": "-NCKDTUsdpYZq57vgyzO",
+						"name": "PF2eCFD_18"
+					},
+					"-NCKDTVAAtOB6NnNl4S5": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_19.png?raw=true",
+						"id": "-NCKDTVAAtOB6NnNl4S5",
+						"name": "PF2eCFD_19"
+					},
+					"-NCKDTVVRKJpSIjXIBuo": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_20.png?raw=true",
+						"id": "-NCKDTVVRKJpSIjXIBuo",
+						"name": "PF2eCFD_20"
+					},
+					"-NCKDTVtMdssziekuHTr": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_21.png?raw=true",
+						"id": "-NCKDTVtMdssziekuHTr",
+						"name": "PF2eCFD_21"
+					},
+					"-NCKDTWFfYlIPkQE3gyn": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_22.png?raw=true",
+						"id": "-NCKDTWFfYlIPkQE3gyn",
+						"name": "PF2eCFD_22"
+					},
+					"-NCKDTWYV6PBhUnpOcnh": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_23.png?raw=true",
+						"id": "-NCKDTWYV6PBhUnpOcnh",
+						"name": "PF2eCFD_23"
+					},
+					"-NCKDTWsvmvxxnogQhP8": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_24.png?raw=true",
+						"id": "-NCKDTWsvmvxxnogQhP8",
+						"name": "PF2eCFD_24"
+					},
+					"-NCKDTXC7b2w5E0VPX3P": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_25.png?raw=true",
+						"id": "-NCKDTXC7b2w5E0VPX3P",
+						"name": "PF2eCFD_25"
+					},
+					"-NCKDTXZqoRsiQFwXM4z": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_26.png?raw=true",
+						"id": "-NCKDTXZqoRsiQFwXM4z",
+						"name": "PF2eCFD_26"
+					},
+					"-NCKDTXvspZhLT8XjU-R": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_27.png?raw=true",
+						"id": "-NCKDTXvspZhLT8XjU-R",
+						"name": "PF2eCFD_27"
+					},
+					"-NCKDTYGwYyjr6YxKpZR": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_28.png?raw=true",
+						"id": "-NCKDTYGwYyjr6YxKpZR",
+						"name": "PF2eCFD_28"
+					},
+					"-NCKDTYdiZ3RtfKxJpV0": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_29.png?raw=true",
+						"id": "-NCKDTYdiZ3RtfKxJpV0",
+						"name": "PF2eCFD_29"
+					},
+					"-NCKDTZ-QHHdvk7TBBjs": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_33.png?raw=true",
+						"id": "-NCKDTZ-QHHdvk7TBBjs",
+						"name": "PF2eCFD_33"
+					},
+					"-NCKDTZ0WhZtLuRjgoXE": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_30.png?raw=true",
+						"id": "-NCKDTZ0WhZtLuRjgoXE",
+						"name": "PF2eCFD_30"
+					},
+					"-NCKDTZMxFqeqlEC7czo": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_34.png?raw=true",
+						"id": "-NCKDTZMxFqeqlEC7czo",
+						"name": "PF2eCFD_34"
+					},
+					"-NCKDTZNOwzG0E1TA2HU": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_31.png?raw=true",
+						"id": "-NCKDTZNOwzG0E1TA2HU",
+						"name": "PF2eCFD_31"
+					},
+					"-NCKDTZgxFXoAJC7H2hq": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_32.png?raw=true",
+						"id": "-NCKDTZgxFXoAJC7H2hq",
+						"name": "PF2eCFD_32"
+					},
+					"-NCKDTZrdZjtVUm4dxsw": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_35.png?raw=true",
+						"id": "-NCKDTZrdZjtVUm4dxsw",
+						"name": "PF2eCFD_35"
+					},
+					"-NCKDTaCwve5IXxkOuEG": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_36.png?raw=true",
+						"id": "-NCKDTaCwve5IXxkOuEG",
+						"name": "PF2eCFD_36"
+					},
+					"-NCKDTaZd4RcVKieJWjF": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_37.png?raw=true",
+						"id": "-NCKDTaZd4RcVKieJWjF",
+						"name": "PF2eCFD_37"
+					},
+					"-NCKDTb0eYPl-rud18XZ": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_38.png?raw=true",
+						"id": "-NCKDTb0eYPl-rud18XZ",
+						"name": "PF2eCFD_38"
+					},
+					"-NCKDTbPitMYoAJnu86R": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_39.png?raw=true",
+						"id": "-NCKDTbPitMYoAJnu86R",
+						"name": "PF2eCFD_39"
+					},
+					"-NCKDTbmnKe68vjTRvM3": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_40.png?raw=true",
+						"id": "-NCKDTbmnKe68vjTRvM3",
+						"name": "PF2eCFD_40"
+					},
+					"-NCKDTc7ZnJDETK42qZF": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_41.png?raw=true",
+						"id": "-NCKDTc7ZnJDETK42qZF",
+						"name": "PF2eCFD_41"
+					},
+					"-NCKDTcWFMRxkUEWrPEq": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_42.png?raw=true",
+						"id": "-NCKDTcWFMRxkUEWrPEq",
+						"name": "PF2eCFD_42"
+					},
+					"-NCKDTcup9nQLIFNJSyH": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_43.png?raw=true",
+						"id": "-NCKDTcup9nQLIFNJSyH",
+						"name": "PF2eCFD_43"
+					},
+					"-NCKDTdIrTPShjhlRAOF": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_44.png?raw=true",
+						"id": "-NCKDTdIrTPShjhlRAOF",
+						"name": "PF2eCFD_44"
+					},
+					"-NCKDTdf21CzTmQ15pyx": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_45.png?raw=true",
+						"id": "-NCKDTdf21CzTmQ15pyx",
+						"name": "PF2eCFD_45"
+					},
+					"-NCKDTe5TaDZP20FyeUV": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_46.png?raw=true",
+						"id": "-NCKDTe5TaDZP20FyeUV",
+						"name": "PF2eCFD_46"
+					},
+					"-NCKDTeVyu5FturTeHbs": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_47.png?raw=true",
+						"id": "-NCKDTeVyu5FturTeHbs",
+						"name": "PF2eCFD_47"
+					},
+					"-NCKDTevAav4vS7vRXii": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_48.png?raw=true",
+						"id": "-NCKDTevAav4vS7vRXii",
+						"name": "PF2eCFD_48"
+					},
+					"-NCKDTfJm3345Is7Zs2Y": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_49.png?raw=true",
+						"id": "-NCKDTfJm3345Is7Zs2Y",
+						"name": "PF2eCFD_49"
+					},
+					"-NCKDTfqP2Fkq2PmaZuw": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_50.png?raw=true",
+						"id": "-NCKDTfqP2Fkq2PmaZuw",
+						"name": "PF2eCFD_50"
+					},
+					"-NCKDTgF04Y9Uk3S4VeV": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_51.png?raw=true",
+						"id": "-NCKDTgF04Y9Uk3S4VeV",
+						"name": "PF2eCFD_51"
+					},
+					"-NCKDTggo1a3OBUtX-r4": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_52.png?raw=true",
+						"id": "-NCKDTggo1a3OBUtX-r4",
+						"name": "PF2eCFD_52"
+					},
+					"-NCKDThA5o2p7gzfVMkk": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_53.png?raw=true",
+						"id": "-NCKDThA5o2p7gzfVMkk",
+						"name": "PF2eCFD_53"
+					}
+				},
+				"id": "-NCKDKx3nfegJZpJ5j8I",
+				"infinitecardstype": "random"
+			},
+			"cards": [{
+					"name": "PF2eCFD_01",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_01.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTQ8UGaFsFv0Islk"
+				},
+				{
+					"name": "PF2eCFD_02",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_02.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTQVsglz4WkOV9bH"
+				},
+				{
+					"name": "PF2eCFD_03",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_03.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTQkHnqz4TXPHDsz"
+				},
+				{
+					"name": "PF2eCFD_04",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_04.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTR-JRugO4nDcSuv"
+				},
+				{
+					"name": "PF2eCFD_05",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_05.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTRFfZVUw9xpPwat"
+				},
+				{
+					"name": "PF2eCFD_06",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_06.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTRazSm-gYnzZW9s"
+				},
+				{
+					"name": "PF2eCFD_07",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_07.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTRsk3KGGTkTFykr"
+				},
+				{
+					"name": "PF2eCFD_08",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_08.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTS5SCnWCADKUcry"
+				},
+				{
+					"name": "PF2eCFD_09",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_09.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTSL8jImQhbAp8hD"
+				},
+				{
+					"name": "PF2eCFD_10",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_10.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTScLdRjGiIvlEAr"
+				},
+				{
+					"name": "PF2eCFD_11",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_11.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTStikxYuvAwUCGE"
+				},
+				{
+					"name": "PF2eCFD_12",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_12.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTTAru2uj8tBbqoN"
+				},
+				{
+					"name": "PF2eCFD_13",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_13.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTTVfXHBjX0ecLRz"
+				},
+				{
+					"name": "PF2eCFD_14",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_14.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTTnc106AZRiu0Lb"
+				},
+				{
+					"name": "PF2eCFD_15",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_15.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTU4GSFZyWkx5Z9v"
+				},
+				{
+					"name": "PF2eCFD_16",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_16.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTULKNXSH15BNNsA"
+				},
+				{
+					"name": "PF2eCFD_17",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_17.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTUawunoRgnyqt-a"
+				},
+				{
+					"name": "PF2eCFD_18",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_18.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTUsdpYZq57vgyzO"
+				},
+				{
+					"name": "PF2eCFD_19",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_19.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTVAAtOB6NnNl4S5"
+				},
+				{
+					"name": "PF2eCFD_20",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_20.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTVVRKJpSIjXIBuo"
+				},
+				{
+					"name": "PF2eCFD_21",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_21.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTVtMdssziekuHTr"
+				},
+				{
+					"name": "PF2eCFD_22",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_22.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTWFfYlIPkQE3gyn"
+				},
+				{
+					"name": "PF2eCFD_23",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_23.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTWYV6PBhUnpOcnh"
+				},
+				{
+					"name": "PF2eCFD_24",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_24.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTWsvmvxxnogQhP8"
+				},
+				{
+					"name": "PF2eCFD_25",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_25.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTXC7b2w5E0VPX3P"
+				},
+				{
+					"name": "PF2eCFD_26",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_26.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTXZqoRsiQFwXM4z"
+				},
+				{
+					"name": "PF2eCFD_27",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_27.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTXvspZhLT8XjU-R"
+				},
+				{
+					"name": "PF2eCFD_28",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_28.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTYGwYyjr6YxKpZR"
+				},
+				{
+					"name": "PF2eCFD_29",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_29.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTYdiZ3RtfKxJpV0"
+				},
+				{
+					"name": "PF2eCFD_33",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_33.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTZ-QHHdvk7TBBjs"
+				},
+				{
+					"name": "PF2eCFD_30",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_30.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTZ0WhZtLuRjgoXE"
+				},
+				{
+					"name": "PF2eCFD_34",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_34.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTZMxFqeqlEC7czo"
+				},
+				{
+					"name": "PF2eCFD_31",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_31.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTZNOwzG0E1TA2HU"
+				},
+				{
+					"name": "PF2eCFD_32",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_32.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTZgxFXoAJC7H2hq"
+				},
+				{
+					"name": "PF2eCFD_35",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_35.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTZrdZjtVUm4dxsw"
+				},
+				{
+					"name": "PF2eCFD_36",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_36.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTaCwve5IXxkOuEG"
+				},
+				{
+					"name": "PF2eCFD_37",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_37.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTaZd4RcVKieJWjF"
+				},
+				{
+					"name": "PF2eCFD_38",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_38.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTb0eYPl-rud18XZ"
+				},
+				{
+					"name": "PF2eCFD_39",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_39.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTbPitMYoAJnu86R"
+				},
+				{
+					"name": "PF2eCFD_40",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_40.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTbmnKe68vjTRvM3"
+				},
+				{
+					"name": "PF2eCFD_41",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_41.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTc7ZnJDETK42qZF"
+				},
+				{
+					"name": "PF2eCFD_42",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_42.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTcWFMRxkUEWrPEq"
+				},
+				{
+					"name": "PF2eCFD_43",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_43.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTcup9nQLIFNJSyH"
+				},
+				{
+					"name": "PF2eCFD_44",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_44.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTdIrTPShjhlRAOF"
+				},
+				{
+					"name": "PF2eCFD_45",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_45.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTdf21CzTmQ15pyx"
+				},
+				{
+					"name": "PF2eCFD_46",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_46.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTe5TaDZP20FyeUV"
+				},
+				{
+					"name": "PF2eCFD_47",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_47.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTeVyu5FturTeHbs"
+				},
+				{
+					"name": "PF2eCFD_48",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_48.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTevAav4vS7vRXii"
+				},
+				{
+					"name": "PF2eCFD_49",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_49.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTfJm3345Is7Zs2Y"
+				},
+				{
+					"name": "PF2eCFD_50",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_50.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTfqP2Fkq2PmaZuw"
+				},
+				{
+					"name": "PF2eCFD_51",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_51.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTgF04Y9Uk3S4VeV"
+				},
+				{
+					"name": "PF2eCFD_52",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_52.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDTggo1a3OBUtX-r4"
+				},
+				{
+					"name": "PF2eCFD_53",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_53.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKDThA5o2p7gzfVMkk"
+				}
+			]
+		},
+		{
+			"attributes": {
+				"name": "Pathfinder 2e - Critical Hit Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": true,
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_Back.png?raw=true",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": true,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": true,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "choosefronts_gm",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"cards": {
+					"-NCKFyBTYa4turecPAjY": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_01.png?raw=true",
+						"id": "-NCKFyBTYa4turecPAjY",
+						"name": "PF2eCHD_01"
+					},
+					"-NCKFyBoS5ouMpS3o9X6": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_02.png?raw=true",
+						"id": "-NCKFyBoS5ouMpS3o9X6",
+						"name": "PF2eCHD_02"
+					},
+					"-NCKFyC9Sn3Ab3jOgnut": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_03.png?raw=true",
+						"id": "-NCKFyC9Sn3Ab3jOgnut",
+						"name": "PF2eCHD_03"
+					},
+					"-NCKFyCRkX6RPDopOpRD": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_04.png?raw=true",
+						"id": "-NCKFyCRkX6RPDopOpRD",
+						"name": "PF2eCHD_04"
+					},
+					"-NCKFyCh5BSvus74sPja": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_05.png?raw=true",
+						"id": "-NCKFyCh5BSvus74sPja",
+						"name": "PF2eCHD_05"
+					},
+					"-NCKFyCxMsKRxoM9Fld1": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_06.png?raw=true",
+						"id": "-NCKFyCxMsKRxoM9Fld1",
+						"name": "PF2eCHD_06"
+					},
+					"-NCKFyDJMwJX9uh7kmlF": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_07.png?raw=true",
+						"id": "-NCKFyDJMwJX9uh7kmlF",
+						"name": "PF2eCHD_07"
+					},
+					"-NCKFyDayT-0gOObD-OY": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_08.png?raw=true",
+						"id": "-NCKFyDayT-0gOObD-OY",
+						"name": "PF2eCHD_08"
+					},
+					"-NCKFyDrESx7KT67mjzj": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_09.png?raw=true",
+						"id": "-NCKFyDrESx7KT67mjzj",
+						"name": "PF2eCHD_09"
+					},
+					"-NCKFyEEnRJQKcwybT4I": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_10.png?raw=true",
+						"id": "-NCKFyEEnRJQKcwybT4I",
+						"name": "PF2eCHD_10"
+					},
+					"-NCKFyEUagZ07x-guKe3": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_11.png?raw=true",
+						"id": "-NCKFyEUagZ07x-guKe3",
+						"name": "PF2eCHD_11"
+					},
+					"-NCKFyEjsArlCHHStAQw": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_12.png?raw=true",
+						"id": "-NCKFyEjsArlCHHStAQw",
+						"name": "PF2eCHD_12"
+					},
+					"-NCKFyF1ROlXupOyuzdf": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_13.png?raw=true",
+						"id": "-NCKFyF1ROlXupOyuzdf",
+						"name": "PF2eCHD_13"
+					},
+					"-NCKFyFJDQJLBfwXPZUL": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_14.png?raw=true",
+						"id": "-NCKFyFJDQJLBfwXPZUL",
+						"name": "PF2eCHD_14"
+					},
+					"-NCKFyFaYiWZ2v4QUQmk": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_15.png?raw=true",
+						"id": "-NCKFyFaYiWZ2v4QUQmk",
+						"name": "PF2eCHD_15"
+					},
+					"-NCKFyFtAqIaqGa0M0Ii": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_16.png?raw=true",
+						"id": "-NCKFyFtAqIaqGa0M0Ii",
+						"name": "PF2eCHD_16"
+					},
+					"-NCKFyG9SlQOdKK3CkFI": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_17.png?raw=true",
+						"id": "-NCKFyG9SlQOdKK3CkFI",
+						"name": "PF2eCHD_17"
+					},
+					"-NCKFyGRW9afdO7FW-oq": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_18.png?raw=true",
+						"id": "-NCKFyGRW9afdO7FW-oq",
+						"name": "PF2eCHD_18"
+					},
+					"-NCKFyGjKewdg3Bl53lb": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_19.png?raw=true",
+						"id": "-NCKFyGjKewdg3Bl53lb",
+						"name": "PF2eCHD_19"
+					},
+					"-NCKFyH6ibQHVGZ99YsD": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_20.png?raw=true",
+						"id": "-NCKFyH6ibQHVGZ99YsD",
+						"name": "PF2eCHD_20"
+					},
+					"-NCKFyHOR2cijxRkgOc8": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_21.png?raw=true",
+						"id": "-NCKFyHOR2cijxRkgOc8",
+						"name": "PF2eCHD_21"
+					},
+					"-NCKFyHkW64a0R8XVKUx": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_22.png?raw=true",
+						"id": "-NCKFyHkW64a0R8XVKUx",
+						"name": "PF2eCHD_22"
+					},
+					"-NCKFyI7qJLs1u-lIUB4": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_23.png?raw=true",
+						"id": "-NCKFyI7qJLs1u-lIUB4",
+						"name": "PF2eCHD_23"
+					},
+					"-NCKFyIW53mBfIReZGud": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_24.png?raw=true",
+						"id": "-NCKFyIW53mBfIReZGud",
+						"name": "PF2eCHD_24"
+					},
+					"-NCKFyIrIzIVDi0JmQm4": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_25.png?raw=true",
+						"id": "-NCKFyIrIzIVDi0JmQm4",
+						"name": "PF2eCHD_25"
+					},
+					"-NCKFyJDerW1yv7rqZvI": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_26.png?raw=true",
+						"id": "-NCKFyJDerW1yv7rqZvI",
+						"name": "PF2eCHD_26"
+					},
+					"-NCKFyJcIe3mcDneWZtC": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_27.png?raw=true",
+						"id": "-NCKFyJcIe3mcDneWZtC",
+						"name": "PF2eCHD_27"
+					},
+					"-NCKFyJxxDcuz-rbQd-e": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_28.png?raw=true",
+						"id": "-NCKFyJxxDcuz-rbQd-e",
+						"name": "PF2eCHD_28"
+					},
+					"-NCKFyKNm54UnIl6-nMy": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_29.png?raw=true",
+						"id": "-NCKFyKNm54UnIl6-nMy",
+						"name": "PF2eCHD_29"
+					},
+					"-NCKFyKnXbutIVqxIkub": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_30.png?raw=true",
+						"id": "-NCKFyKnXbutIVqxIkub",
+						"name": "PF2eCHD_30"
+					},
+					"-NCKFyLAr2RzgLdvAqTS": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_31.png?raw=true",
+						"id": "-NCKFyLAr2RzgLdvAqTS",
+						"name": "PF2eCHD_31"
+					},
+					"-NCKFyLWUyj2saqDqEmW": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_32.png?raw=true",
+						"id": "-NCKFyLWUyj2saqDqEmW",
+						"name": "PF2eCHD_32"
+					},
+					"-NCKFyLuN-SvpSSlBfZ7": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_33.png?raw=true",
+						"id": "-NCKFyLuN-SvpSSlBfZ7",
+						"name": "PF2eCHD_33"
+					},
+					"-NCKFyMFfZ0m6QGfSkd6": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_34.png?raw=true",
+						"id": "-NCKFyMFfZ0m6QGfSkd6",
+						"name": "PF2eCHD_34"
+					},
+					"-NCKFyMai2nkoPj-FQw9": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_35.png?raw=true",
+						"id": "-NCKFyMai2nkoPj-FQw9",
+						"name": "PF2eCHD_35"
+					},
+					"-NCKFyMyeK4CTXhZtxPT": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_36.png?raw=true",
+						"id": "-NCKFyMyeK4CTXhZtxPT",
+						"name": "PF2eCHD_36"
+					},
+					"-NCKFyNK9PS-Lo6PliwU": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_37.png?raw=true",
+						"id": "-NCKFyNK9PS-Lo6PliwU",
+						"name": "PF2eCHD_37"
+					},
+					"-NCKFyNl8cRdQWE6Gzrr": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_38.png?raw=true",
+						"id": "-NCKFyNl8cRdQWE6Gzrr",
+						"name": "PF2eCHD_38"
+					},
+					"-NCKFyOGP14ZBGflDT1Y": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_39.png?raw=true",
+						"id": "-NCKFyOGP14ZBGflDT1Y",
+						"name": "PF2eCHD_39"
+					},
+					"-NCKFyOlACBBit-ZVT8R": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_40.png?raw=true",
+						"id": "-NCKFyOlACBBit-ZVT8R",
+						"name": "PF2eCHD_40"
+					},
+					"-NCKFyPA8wvHAZgzXR3M": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_41.png?raw=true",
+						"id": "-NCKFyPA8wvHAZgzXR3M",
+						"name": "PF2eCHD_41"
+					},
+					"-NCKFyPbBiwO74kZpGkI": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_42.png?raw=true",
+						"id": "-NCKFyPbBiwO74kZpGkI",
+						"name": "PF2eCHD_42"
+					},
+					"-NCKFyPz8SjlboPxZEIM": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_43.png?raw=true",
+						"id": "-NCKFyPz8SjlboPxZEIM",
+						"name": "PF2eCHD_43"
+					},
+					"-NCKFyQaFleKCHZgUscq": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_44.png?raw=true",
+						"id": "-NCKFyQaFleKCHZgUscq",
+						"name": "PF2eCHD_44"
+					},
+					"-NCKFyR-nbLFB58BZDyj": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_45.png?raw=true",
+						"id": "-NCKFyR-nbLFB58BZDyj",
+						"name": "PF2eCHD_45"
+					},
+					"-NCKFyRPwjJZRe2fR6wl": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_46.png?raw=true",
+						"id": "-NCKFyRPwjJZRe2fR6wl",
+						"name": "PF2eCHD_46"
+					},
+					"-NCKFyRp7ddZaCbfLcP8": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_47.png?raw=true",
+						"id": "-NCKFyRp7ddZaCbfLcP8",
+						"name": "PF2eCHD_47"
+					},
+					"-NCKFySGFw7p0HShBwWd": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_48.png?raw=true",
+						"id": "-NCKFySGFw7p0HShBwWd",
+						"name": "PF2eCHD_48"
+					},
+					"-NCKFySnrbbVIuwnwb78": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_49.png?raw=true",
+						"id": "-NCKFySnrbbVIuwnwb78",
+						"name": "PF2eCHD_49"
+					},
+					"-NCKFyTLRzzI17rplaze": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_50.png?raw=true",
+						"id": "-NCKFyTLRzzI17rplaze",
+						"name": "PF2eCHD_50"
+					},
+					"-NCKFyTonsNzZY6yZ3Zs": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_51.png?raw=true",
+						"id": "-NCKFyTonsNzZY6yZ3Zs",
+						"name": "PF2eCHD_51"
+					},
+					"-NCKFyUEgKRFd3fEN6gA": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_52.png?raw=true",
+						"id": "-NCKFyUEgKRFd3fEN6gA",
+						"name": "PF2eCHD_52"
+					},
+					"-NCKFyUf0uWtR04zKJRE": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_53.png?raw=true",
+						"id": "-NCKFyUf0uWtR04zKJRE",
+						"name": "PF2eCHD_53"
+					}
+				},
+				"id": "-NCKFuyxhXzvk3o84Y1k",
+				"infinitecardstype": "random"
+			},
+			"cards": [{
+					"name": "PF2eCHD_01",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_01.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyBTYa4turecPAjY"
+				},
+				{
+					"name": "PF2eCHD_02",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_02.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyBoS5ouMpS3o9X6"
+				},
+				{
+					"name": "PF2eCHD_03",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_03.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyC9Sn3Ab3jOgnut"
+				},
+				{
+					"name": "PF2eCHD_04",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_04.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyCRkX6RPDopOpRD"
+				},
+				{
+					"name": "PF2eCHD_05",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_05.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyCh5BSvus74sPja"
+				},
+				{
+					"name": "PF2eCHD_06",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_06.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyCxMsKRxoM9Fld1"
+				},
+				{
+					"name": "PF2eCHD_07",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_07.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyDJMwJX9uh7kmlF"
+				},
+				{
+					"name": "PF2eCHD_08",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_08.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyDayT-0gOObD-OY"
+				},
+				{
+					"name": "PF2eCHD_09",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_09.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyDrESx7KT67mjzj"
+				},
+				{
+					"name": "PF2eCHD_10",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_10.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyEEnRJQKcwybT4I"
+				},
+				{
+					"name": "PF2eCHD_11",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_11.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyEUagZ07x-guKe3"
+				},
+				{
+					"name": "PF2eCHD_12",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_12.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyEjsArlCHHStAQw"
+				},
+				{
+					"name": "PF2eCHD_13",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_13.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyF1ROlXupOyuzdf"
+				},
+				{
+					"name": "PF2eCHD_14",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_14.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyFJDQJLBfwXPZUL"
+				},
+				{
+					"name": "PF2eCHD_15",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_15.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyFaYiWZ2v4QUQmk"
+				},
+				{
+					"name": "PF2eCHD_16",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_16.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyFtAqIaqGa0M0Ii"
+				},
+				{
+					"name": "PF2eCHD_17",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_17.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyG9SlQOdKK3CkFI"
+				},
+				{
+					"name": "PF2eCHD_18",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_18.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyGRW9afdO7FW-oq"
+				},
+				{
+					"name": "PF2eCHD_19",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_19.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyGjKewdg3Bl53lb"
+				},
+				{
+					"name": "PF2eCHD_20",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_20.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyH6ibQHVGZ99YsD"
+				},
+				{
+					"name": "PF2eCHD_21",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_21.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyHOR2cijxRkgOc8"
+				},
+				{
+					"name": "PF2eCHD_22",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_22.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyHkW64a0R8XVKUx"
+				},
+				{
+					"name": "PF2eCHD_23",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_23.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyI7qJLs1u-lIUB4"
+				},
+				{
+					"name": "PF2eCHD_24",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_24.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyIW53mBfIReZGud"
+				},
+				{
+					"name": "PF2eCHD_25",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_25.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyIrIzIVDi0JmQm4"
+				},
+				{
+					"name": "PF2eCHD_26",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_26.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyJDerW1yv7rqZvI"
+				},
+				{
+					"name": "PF2eCHD_27",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_27.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyJcIe3mcDneWZtC"
+				},
+				{
+					"name": "PF2eCHD_28",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_28.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyJxxDcuz-rbQd-e"
+				},
+				{
+					"name": "PF2eCHD_29",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_29.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyKNm54UnIl6-nMy"
+				},
+				{
+					"name": "PF2eCHD_30",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_30.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyKnXbutIVqxIkub"
+				},
+				{
+					"name": "PF2eCHD_31",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_31.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyLAr2RzgLdvAqTS"
+				},
+				{
+					"name": "PF2eCHD_32",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_32.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyLWUyj2saqDqEmW"
+				},
+				{
+					"name": "PF2eCHD_33",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_33.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyLuN-SvpSSlBfZ7"
+				},
+				{
+					"name": "PF2eCHD_34",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_34.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyMFfZ0m6QGfSkd6"
+				},
+				{
+					"name": "PF2eCHD_35",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_35.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyMai2nkoPj-FQw9"
+				},
+				{
+					"name": "PF2eCHD_36",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_36.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyMyeK4CTXhZtxPT"
+				},
+				{
+					"name": "PF2eCHD_37",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_37.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyNK9PS-Lo6PliwU"
+				},
+				{
+					"name": "PF2eCHD_38",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_38.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyNl8cRdQWE6Gzrr"
+				},
+				{
+					"name": "PF2eCHD_39",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_39.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyOGP14ZBGflDT1Y"
+				},
+				{
+					"name": "PF2eCHD_40",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_40.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyOlACBBit-ZVT8R"
+				},
+				{
+					"name": "PF2eCHD_41",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_41.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyPA8wvHAZgzXR3M"
+				},
+				{
+					"name": "PF2eCHD_42",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_42.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyPbBiwO74kZpGkI"
+				},
+				{
+					"name": "PF2eCHD_43",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_43.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyPz8SjlboPxZEIM"
+				},
+				{
+					"name": "PF2eCHD_44",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_44.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyQaFleKCHZgUscq"
+				},
+				{
+					"name": "PF2eCHD_45",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_45.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyR-nbLFB58BZDyj"
+				},
+				{
+					"name": "PF2eCHD_46",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_46.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyRPwjJZRe2fR6wl"
+				},
+				{
+					"name": "PF2eCHD_47",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_47.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyRp7ddZaCbfLcP8"
+				},
+				{
+					"name": "PF2eCHD_48",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_48.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFySGFw7p0HShBwWd"
+				},
+				{
+					"name": "PF2eCHD_49",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_49.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFySnrbbVIuwnwb78"
+				},
+				{
+					"name": "PF2eCHD_50",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_50.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyTLRzzI17rplaze"
+				},
+				{
+					"name": "PF2eCHD_51",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_51.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyTonsNzZY6yZ3Zs"
+				},
+				{
+					"name": "PF2eCHD_52",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_52.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyUEgKRFd3fEN6gA"
+				},
+				{
+					"name": "PF2eCHD_53",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_53.png?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKFyUf0uWtR04zKJRE"
+				}
+			]
+		},
+		{
+			"attributes": {
+				"name": "Pathfinder 2e - Hero Point Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": true,
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_Back.png?raw=true",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": true,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": true,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "choosefronts_gm",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"cards": {
+					"-NCKI0YP6p583pJYCY-9": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_01.jpg?raw=true",
+						"id": "-NCKI0YP6p583pJYCY-9",
+						"name": "PF2eHPD_01"
+					},
+					"-NCKI0Yexf4UBPEXwFpD": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_02.jpg?raw=true",
+						"id": "-NCKI0Yexf4UBPEXwFpD",
+						"name": "PF2eHPD_02"
+					},
+					"-NCKI0YwsDZAaokZlDbH": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_03.jpg?raw=true",
+						"id": "-NCKI0YwsDZAaokZlDbH",
+						"name": "PF2eHPD_03"
+					},
+					"-NCKI0Z7zZwQEvUrdlVJ": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_07.jpg?raw=true",
+						"id": "-NCKI0Z7zZwQEvUrdlVJ",
+						"name": "PF2eHPD_07"
+					},
+					"-NCKI0ZKoebGHa3yx3UO": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_04.jpg?raw=true",
+						"id": "-NCKI0ZKoebGHa3yx3UO",
+						"name": "PF2eHPD_04"
+					},
+					"-NCKI0ZMTNWfZZytJ0EI": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_08.jpg?raw=true",
+						"id": "-NCKI0ZMTNWfZZytJ0EI",
+						"name": "PF2eHPD_08"
+					},
+					"-NCKI0ZdZNjl2NlvS-sN": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_05.jpg?raw=true",
+						"id": "-NCKI0ZdZNjl2NlvS-sN",
+						"name": "PF2eHPD_05"
+					},
+					"-NCKI0ZeW8529oXSjb0g": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_09.jpg?raw=true",
+						"id": "-NCKI0ZeW8529oXSjb0g",
+						"name": "PF2eHPD_09"
+					},
+					"-NCKI0ZtJXavxZ4NQWo0": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_06.jpg?raw=true",
+						"id": "-NCKI0ZtJXavxZ4NQWo0",
+						"name": "PF2eHPD_06"
+					},
+					"-NCKI0Ztmzghq6LiTObM": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_10.jpg?raw=true",
+						"id": "-NCKI0Ztmzghq6LiTObM",
+						"name": "PF2eHPD_10"
+					},
+					"-NCKI0a8hwr1JqQYAi6J": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_11.jpg?raw=true",
+						"id": "-NCKI0a8hwr1JqQYAi6J",
+						"name": "PF2eHPD_11"
+					},
+					"-NCKI0aOSPN8jvQdjm9Z": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_12.jpg?raw=true",
+						"id": "-NCKI0aOSPN8jvQdjm9Z",
+						"name": "PF2eHPD_12"
+					},
+					"-NCKI0agA5N3zG2ZLrQI": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_13.jpg?raw=true",
+						"id": "-NCKI0agA5N3zG2ZLrQI",
+						"name": "PF2eHPD_13"
+					},
+					"-NCKI0awE774AQyACkOY": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_14.jpg?raw=true",
+						"id": "-NCKI0awE774AQyACkOY",
+						"name": "PF2eHPD_14"
+					},
+					"-NCKI0bCGp0YEQjdF-tR": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_15.jpg?raw=true",
+						"id": "-NCKI0bCGp0YEQjdF-tR",
+						"name": "PF2eHPD_15"
+					},
+					"-NCKI0bUT3ZvXzRd2Vp4": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_16.jpg?raw=true",
+						"id": "-NCKI0bUT3ZvXzRd2Vp4",
+						"name": "PF2eHPD_16"
+					},
+					"-NCKI0bkMvVfTQag8bNH": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_17.jpg?raw=true",
+						"id": "-NCKI0bkMvVfTQag8bNH",
+						"name": "PF2eHPD_17"
+					},
+					"-NCKI0c24RctAAsp4XkM": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_18.jpg?raw=true",
+						"id": "-NCKI0c24RctAAsp4XkM",
+						"name": "PF2eHPD_18"
+					},
+					"-NCKI0cMrhRSFK-rRJaG": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_19.jpg?raw=true",
+						"id": "-NCKI0cMrhRSFK-rRJaG",
+						"name": "PF2eHPD_19"
+					},
+					"-NCKI0ciKVET52EUzwIp": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_20.jpg?raw=true",
+						"id": "-NCKI0ciKVET52EUzwIp",
+						"name": "PF2eHPD_20"
+					},
+					"-NCKI0d-ADnXsV9WgOR6": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_21.jpg?raw=true",
+						"id": "-NCKI0d-ADnXsV9WgOR6",
+						"name": "PF2eHPD_21"
+					},
+					"-NCKI0dKZ76QVdrqmxOm": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_22.jpg?raw=true",
+						"id": "-NCKI0dKZ76QVdrqmxOm",
+						"name": "PF2eHPD_22"
+					},
+					"-NCKI0dgUb66sKJ85vzs": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_23.jpg?raw=true",
+						"id": "-NCKI0dgUb66sKJ85vzs",
+						"name": "PF2eHPD_23"
+					},
+					"-NCKI0e1osptgDhAgel7": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_24.jpg?raw=true",
+						"id": "-NCKI0e1osptgDhAgel7",
+						"name": "PF2eHPD_24"
+					},
+					"-NCKI0eMfBd3u-1InwBj": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_25.jpg?raw=true",
+						"id": "-NCKI0eMfBd3u-1InwBj",
+						"name": "PF2eHPD_25"
+					},
+					"-NCKI0efnI5V2XfutGOp": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_26.jpg?raw=true",
+						"id": "-NCKI0efnI5V2XfutGOp",
+						"name": "PF2eHPD_26"
+					},
+					"-NCKI0eyR1ZXtzEcuVF-": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_27.jpg?raw=true",
+						"id": "-NCKI0eyR1ZXtzEcuVF-",
+						"name": "PF2eHPD_27"
+					},
+					"-NCKI0fMZ6cor-KmKrCo": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_28.jpg?raw=true",
+						"id": "-NCKI0fMZ6cor-KmKrCo",
+						"name": "PF2eHPD_28"
+					},
+					"-NCKI0fjfuecPmUYudm0": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_29.jpg?raw=true",
+						"id": "-NCKI0fjfuecPmUYudm0",
+						"name": "PF2eHPD_29"
+					},
+					"-NCKI0g7g4YBs-oWyZ4z": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_30.jpg?raw=true",
+						"id": "-NCKI0g7g4YBs-oWyZ4z",
+						"name": "PF2eHPD_30"
+					},
+					"-NCKI0gVm7ZnV237VoTo": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_31.jpg?raw=true",
+						"id": "-NCKI0gVm7ZnV237VoTo",
+						"name": "PF2eHPD_31"
+					},
+					"-NCKI0grLdqZB56q5oZt": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_32.jpg?raw=true",
+						"id": "-NCKI0grLdqZB56q5oZt",
+						"name": "PF2eHPD_32"
+					},
+					"-NCKI0hF8JVEpmtaQemP": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_33.jpg?raw=true",
+						"id": "-NCKI0hF8JVEpmtaQemP",
+						"name": "PF2eHPD_33"
+					},
+					"-NCKI0hZebNhNKqhjNeY": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_34.jpg?raw=true",
+						"id": "-NCKI0hZebNhNKqhjNeY",
+						"name": "PF2eHPD_34"
+					},
+					"-NCKI0hv41XKbBpAYmoT": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_35.jpg?raw=true",
+						"id": "-NCKI0hv41XKbBpAYmoT",
+						"name": "PF2eHPD_35"
+					},
+					"-NCKI0iRqJ5k2WInzZdP": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_36.jpg?raw=true",
+						"id": "-NCKI0iRqJ5k2WInzZdP",
+						"name": "PF2eHPD_36"
+					},
+					"-NCKI0iqqCiP2M5B5Buu": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_37.jpg?raw=true",
+						"id": "-NCKI0iqqCiP2M5B5Buu",
+						"name": "PF2eHPD_37"
+					},
+					"-NCKI0jFdxcQskc8GjE8": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_38.jpg?raw=true",
+						"id": "-NCKI0jFdxcQskc8GjE8",
+						"name": "PF2eHPD_38"
+					},
+					"-NCKI0jcqXio3CttZpD-": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_39.jpg?raw=true",
+						"id": "-NCKI0jcqXio3CttZpD-",
+						"name": "PF2eHPD_39"
+					},
+					"-NCKI0k2SRlih5rVtxsl": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_40.jpg?raw=true",
+						"id": "-NCKI0k2SRlih5rVtxsl",
+						"name": "PF2eHPD_40"
+					},
+					"-NCKI0kThuetujHD21VC": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_41.jpg?raw=true",
+						"id": "-NCKI0kThuetujHD21VC",
+						"name": "PF2eHPD_41"
+					},
+					"-NCKI0l81W32eZmdybgw": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_42.jpg?raw=true",
+						"id": "-NCKI0l81W32eZmdybgw",
+						"name": "PF2eHPD_42"
+					},
+					"-NCKI0m6NjiIlqotWkkW": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_43.jpg?raw=true",
+						"id": "-NCKI0m6NjiIlqotWkkW",
+						"name": "PF2eHPD_43"
+					},
+					"-NCKI0mWK65ep1VSPUEG": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_44.jpg?raw=true",
+						"id": "-NCKI0mWK65ep1VSPUEG",
+						"name": "PF2eHPD_44"
+					},
+					"-NCKI0mwuxF5CjwvSG5o": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_45.jpg?raw=true",
+						"id": "-NCKI0mwuxF5CjwvSG5o",
+						"name": "PF2eHPD_45"
+					},
+					"-NCKI0nOtdYOocrG6lyi": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_46.jpg?raw=true",
+						"id": "-NCKI0nOtdYOocrG6lyi",
+						"name": "PF2eHPD_46"
+					},
+					"-NCKI0npUetuDVyiKWFk": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_47.jpg?raw=true",
+						"id": "-NCKI0npUetuDVyiKWFk",
+						"name": "PF2eHPD_47"
+					},
+					"-NCKI0oH0b78ND0GpXHT": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_48.jpg?raw=true",
+						"id": "-NCKI0oH0b78ND0GpXHT",
+						"name": "PF2eHPD_48"
+					},
+					"-NCKI0omhZKEMe8kM0yZ": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_49.jpg?raw=true",
+						"id": "-NCKI0omhZKEMe8kM0yZ",
+						"name": "PF2eHPD_49"
+					},
+					"-NCKI0pCbS9LgJZP7HtL": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_50.jpg?raw=true",
+						"id": "-NCKI0pCbS9LgJZP7HtL",
+						"name": "PF2eHPD_50"
+					},
+					"-NCKI0pjUTdm-8pXKOmr": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_51.jpg?raw=true",
+						"id": "-NCKI0pjUTdm-8pXKOmr",
+						"name": "PF2eHPD_51"
+					},
+					"-NCKI0q7CMz0SB6I9enf": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_52.jpg?raw=true",
+						"id": "-NCKI0q7CMz0SB6I9enf",
+						"name": "PF2eHPD_52"
+					}
+				},
+				"id": "-NCKHyCv2ftO5vPXfrEu",
+				"infinitecardstype": "random"
+			},
+			"cards": [{
+					"name": "PF2eHPD_01",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_01.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0YP6p583pJYCY-9"
+				},
+				{
+					"name": "PF2eHPD_02",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_02.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0Yexf4UBPEXwFpD"
+				},
+				{
+					"name": "PF2eHPD_03",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_03.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0YwsDZAaokZlDbH"
+				},
+				{
+					"name": "PF2eHPD_07",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_07.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0Z7zZwQEvUrdlVJ"
+				},
+				{
+					"name": "PF2eHPD_04",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_04.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0ZKoebGHa3yx3UO"
+				},
+				{
+					"name": "PF2eHPD_08",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_08.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0ZMTNWfZZytJ0EI"
+				},
+				{
+					"name": "PF2eHPD_05",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_05.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0ZdZNjl2NlvS-sN"
+				},
+				{
+					"name": "PF2eHPD_09",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_09.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0ZeW8529oXSjb0g"
+				},
+				{
+					"name": "PF2eHPD_06",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_06.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0ZtJXavxZ4NQWo0"
+				},
+				{
+					"name": "PF2eHPD_10",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_10.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0Ztmzghq6LiTObM"
+				},
+				{
+					"name": "PF2eHPD_11",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_11.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0a8hwr1JqQYAi6J"
+				},
+				{
+					"name": "PF2eHPD_12",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_12.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0aOSPN8jvQdjm9Z"
+				},
+				{
+					"name": "PF2eHPD_13",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_13.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0agA5N3zG2ZLrQI"
+				},
+				{
+					"name": "PF2eHPD_14",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_14.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0awE774AQyACkOY"
+				},
+				{
+					"name": "PF2eHPD_15",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_15.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0bCGp0YEQjdF-tR"
+				},
+				{
+					"name": "PF2eHPD_16",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_16.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0bUT3ZvXzRd2Vp4"
+				},
+				{
+					"name": "PF2eHPD_17",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_17.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0bkMvVfTQag8bNH"
+				},
+				{
+					"name": "PF2eHPD_18",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_18.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0c24RctAAsp4XkM"
+				},
+				{
+					"name": "PF2eHPD_19",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_19.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0cMrhRSFK-rRJaG"
+				},
+				{
+					"name": "PF2eHPD_20",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_20.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0ciKVET52EUzwIp"
+				},
+				{
+					"name": "PF2eHPD_21",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_21.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0d-ADnXsV9WgOR6"
+				},
+				{
+					"name": "PF2eHPD_22",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_22.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0dKZ76QVdrqmxOm"
+				},
+				{
+					"name": "PF2eHPD_23",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_23.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0dgUb66sKJ85vzs"
+				},
+				{
+					"name": "PF2eHPD_24",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_24.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0e1osptgDhAgel7"
+				},
+				{
+					"name": "PF2eHPD_25",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_25.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0eMfBd3u-1InwBj"
+				},
+				{
+					"name": "PF2eHPD_26",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_26.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0efnI5V2XfutGOp"
+				},
+				{
+					"name": "PF2eHPD_27",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_27.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0eyR1ZXtzEcuVF-"
+				},
+				{
+					"name": "PF2eHPD_28",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_28.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0fMZ6cor-KmKrCo"
+				},
+				{
+					"name": "PF2eHPD_29",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_29.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0fjfuecPmUYudm0"
+				},
+				{
+					"name": "PF2eHPD_30",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_30.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0g7g4YBs-oWyZ4z"
+				},
+				{
+					"name": "PF2eHPD_31",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_31.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0gVm7ZnV237VoTo"
+				},
+				{
+					"name": "PF2eHPD_32",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_32.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0grLdqZB56q5oZt"
+				},
+				{
+					"name": "PF2eHPD_33",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_33.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0hF8JVEpmtaQemP"
+				},
+				{
+					"name": "PF2eHPD_34",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_34.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0hZebNhNKqhjNeY"
+				},
+				{
+					"name": "PF2eHPD_35",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_35.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0hv41XKbBpAYmoT"
+				},
+				{
+					"name": "PF2eHPD_36",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_36.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0iRqJ5k2WInzZdP"
+				},
+				{
+					"name": "PF2eHPD_37",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_37.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0iqqCiP2M5B5Buu"
+				},
+				{
+					"name": "PF2eHPD_38",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_38.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0jFdxcQskc8GjE8"
+				},
+				{
+					"name": "PF2eHPD_39",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_39.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0jcqXio3CttZpD-"
+				},
+				{
+					"name": "PF2eHPD_40",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_40.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0k2SRlih5rVtxsl"
+				},
+				{
+					"name": "PF2eHPD_41",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_41.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0kThuetujHD21VC"
+				},
+				{
+					"name": "PF2eHPD_42",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_42.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0l81W32eZmdybgw"
+				},
+				{
+					"name": "PF2eHPD_43",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_43.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0m6NjiIlqotWkkW"
+				},
+				{
+					"name": "PF2eHPD_44",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_44.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0mWK65ep1VSPUEG"
+				},
+				{
+					"name": "PF2eHPD_45",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_45.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0mwuxF5CjwvSG5o"
+				},
+				{
+					"name": "PF2eHPD_46",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_46.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0nOtdYOocrG6lyi"
+				},
+				{
+					"name": "PF2eHPD_47",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_47.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0npUetuDVyiKWFk"
+				},
+				{
+					"name": "PF2eHPD_48",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_48.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0oH0b78ND0GpXHT"
+				},
+				{
+					"name": "PF2eHPD_49",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_49.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0omhZKEMe8kM0yZ"
+				},
+				{
+					"name": "PF2eHPD_50",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_50.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0pCbS9LgJZP7HtL"
+				},
+				{
+					"name": "PF2eHPD_51",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_51.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0pjUTdm-8pXKOmr"
+				},
+				{
+					"name": "PF2eHPD_52",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_52.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKI0q7CMz0SB6I9enf"
+				}
+			]
+		}
+	],
+	"journal": [{
+			"id": "-NC0pL3YfTd_oLP5M0DG",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Hero Point Deck"
+			]
+		},
+		{
+			"id": "-NC0pKWfM5dsKsHmrRKF",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Hero Point Deck"
+			]
+		},
+		{
+			"id": "-NBsBxkAJqp9E3vPFFUF",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Hit Deck"
+			]
+		},
+		{
+			"id": "-NBsCQERZNoQmn5-9EJ1",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Hit Deck"
+			]
+		},
+		{
+			"id": "-NBsRhu0hl2BwsDmlT3O",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Fumble Deck"
+			]
+		},
+		{
+			"id": "-NBsRh7_StP6SCLbmEKI",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Fumble Deck"
+			]
+		}
+	],
+	"handouts": [{
+			"attributes": {
+				"name": "Critical Hit Deck: The Rules",
+				"notes": "",
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_Rules1.png?raw=true",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsBxkAJqp9E3vPFFUF"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Critical Hit Deck: Special Rules",
+				"notes": "",
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Hit%20Deck/PF2eCHD_Rules2.png?raw=true",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsCQERZNoQmn5-9EJ1"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Critical Fumble Deck: Variant Rules",
+				"notes": "",
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_Rules2.png?raw=true",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsRh7_StP6SCLbmEKI"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Critical Fumble Deck: The Rules",
+				"notes": "",
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Critical%20Fumble%20Deck/PF2eCFD_Rules1.png?raw=true",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsRhu0hl2BwsDmlT3O"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Hero Point Deck: Optional Rules",
+				"notes": "",
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_Rules2.jpg?raw=true",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NC0pKWfM5dsKsHmrRKF"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Hero Point Deck: Rules",
+				"notes": "",
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Point%20Deck/PF2eHPD_Rules1.jpg?raw=true",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NC0pL3YfTd_oLP5M0DG"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		}
+	]
+}
